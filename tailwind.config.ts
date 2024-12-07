@@ -27,6 +27,8 @@ export default {
           light: "#E0E7FF",
         },
         border: "hsl(var(--border))",
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
       },
       animation: {
         "gradient": "gradient 8s linear infinite",
