@@ -26,6 +26,7 @@ export default {
           dark: "#1E1B4B",
           light: "#E0E7FF",
         },
+        border: "hsl(var(--border))",
       },
       animation: {
         "gradient": "gradient 8s linear infinite",

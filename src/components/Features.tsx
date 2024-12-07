@@ -1,4 +1,4 @@
-import { Brain, Code, Tool, Workflow } from "lucide-react";
+import { Brain, Code, Wrench, Workflow } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const features = [
@@ -10,7 +10,7 @@ const features = [
   {
     title: "Dynamic Tool Creation",
     description: "Generates and deploys custom tools and agents as needed",
-    icon: Tool,
+    icon: Wrench,
   },
   {
     title: "Autonomous Workflow",
